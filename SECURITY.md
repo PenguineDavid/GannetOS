@@ -17,8 +17,7 @@ Older commits and unofficial forks are not supported.
 
 Please do not report security vulnerabilities in a public issue.
 
-Use GitHub's private vulnerability reporting feature if it is enabled for this
-repository. Include:
+Use GitHub's private vulnerability reporting feature. Include:
 
 - A clear description of the issue
 - The affected component or commit
