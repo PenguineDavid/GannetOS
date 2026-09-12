@@ -67,6 +67,14 @@ make QEMU=qemu-system-i386 run
 
 `make hosttests` builds and runs the host-side tests. These cover selected logic such as syscall dispatch, user-pointer validation, task reaping, GDT encoding, and network wire formats.
 
+---
+
+`tests` is an application that can be run via the shell and lives in `/bin/tests.pexe` here is what the output looks like:
+
+<img width="248" height="203" alt="Screenshot 2026-09-12 211811" src="https://github.com/user-attachments/assets/4b463e06-83b9-45c9-9dbe-700f8e1f28dc" />
+
+---
+
 ## Current scope
 
 The current implementation includes:
