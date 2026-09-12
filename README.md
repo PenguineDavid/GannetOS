@@ -1,6 +1,6 @@
 # GannetOS
 
-GannetOS is an OS based on making a stable and customizable user experience and being very separate from things like linux and macOS but taking note of there mistakes.
+GannetOS is an OS based on making a stable and customizable user experience and being very separate from things like Linux and macOS but taking note of their mistakes.
 
 The project is early-stage. The current target is **32-bit x86 in QEMU**. Native x86_64 kernel support is planned, but is not implemented yet.
 
