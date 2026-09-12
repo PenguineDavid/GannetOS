@@ -1,0 +1,23 @@
+# Build output
+/build/
+
+# Generated disk images and boot logs
+/os.img
+/*.img
+/boot.log
+
+# Compiled objects and binaries
+*.o
+*.elf
+*.bin
+*.pexe
+*.exe
+
+# Toolchain and host-test output
+/build/tools/
+/build/hosttest/
+
+# Editor and OS metadata
+.vscode/*
+.DS_Store
+Thumbs.db
