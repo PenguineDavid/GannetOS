@@ -25,7 +25,7 @@
 #define ENV_MAX_VARS 32
 #define ENV_NAME_MAX 32
 #define ENV_VAL_MAX 128
-#define OS_VERSION "GannetOS 0.2.0"
+#define OS_VERSION "GannetOS 0.0.1"
 
 typedef struct
 {
